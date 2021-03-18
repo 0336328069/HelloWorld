@@ -31,34 +31,42 @@ table, tr, td{
 }
 table, tr, #stt {
     color: white;
+    border-radius: 50%;
     background-color: green;
 }
 table, tr, #stt2 {
     color: white;
     background-color: green;
+    border-radius: 50%;
 }
 table, tr, #stt3 {
     color: white;
+    border-radius: 50%;
     background-color: green;
 }
 table, tr, #stt4 {
     color: white;
+    border-radius: 50%;
     background-color: green;
 }
 table, tr, #stt5 {
     color: white;
+    border-radius: 50%;
     background-color: orange;
 }
 table, tr, #stt18 {
     color: white;
+    border-radius: 50%;
     background-color:red;
 }
 table, tr, #stt19 {
     color: white;
+    border-radius: 50%;
     background-color:red;
 }
 table, tr, #stt20 {
     color: white;
+    border-radius: 50%;
     background-color:red;
 }
 table,tr,#top1{
@@ -124,6 +132,15 @@ table,tr,#top20{
 .kq{
     float: right;
     width: 900px;
+    height: 1px;
+}
+.circle1{
+    background :green;
+    clip-path: circle(25%);
+    height: 1em;
+    width: 1em;
+    float: right;
+    width: 1000px;
     height: 1px;
 }
 
