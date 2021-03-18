@@ -1,0 +1,26 @@
+h1{
+    color: brown;
+}
+#Name{
+    color: chartreuse;
+}
+.Name1{
+    color: darkmagenta;
+}
+table, td , th{
+    border: 1px solid gray;
+}
+#Back{
+    background-color: green;
+}
+table{
+    width: 500px;
+    height: 300px;
+}
+.Data , tr , td{
+    text-align: center;
+}
+#Ma1 {
+    color: hotpink;
+    font-weight: 900;
+}

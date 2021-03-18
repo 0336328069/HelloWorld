@@ -1,0 +1,129 @@
+#giaidau{
+    color: blue;
+    text-align: left;
+}
+.data{
+    color: blue;
+    float: right;
+    width: 1300px;
+    padding: 1px;
+}
+#rank{
+    color: red;
+}
+.khung {
+    background-color:cornflowerblue;
+    color: white;
+}
+.giai{
+   text-align: left;
+    
+}
+
+table{
+    border-collapse: collapse;
+    width: 60%;
+}
+table, tr, td{
+    text-align: center;
+    color: black;
+    background-color: white;
+}
+table, tr, #stt {
+    color: white;
+    background-color: green;
+}
+table, tr, #stt2 {
+    color: white;
+    background-color: green;
+}
+table, tr, #stt3 {
+    color: white;
+    background-color: green;
+}
+table, tr, #stt4 {
+    color: white;
+    background-color: green;
+}
+table, tr, #stt5 {
+    color: white;
+    background-color: orange;
+}
+table, tr, #stt18 {
+    color: white;
+    background-color:red;
+}
+table, tr, #stt19 {
+    color: white;
+    background-color:red;
+}
+table, tr, #stt20 {
+    color: white;
+    background-color:red;
+}
+table,tr,#top1{
+    color: royalblue;
+}
+table,tr,#top2{
+    color: royalblue;
+}
+table,tr,#top3{
+    color: royalblue;
+}
+table,tr,#top4{
+    color: royalblue;
+}
+table,tr,#top5{
+    color: royalblue;
+}
+table,tr,#top6{
+    color: royalblue;
+}
+table,tr,#top7{
+    color: royalblue;
+}
+table,tr,#top8{
+    color: royalblue;
+}
+table,tr,#top9{
+    color: royalblue;
+}
+table,tr,#top10{
+    color: royalblue;
+}
+table,tr,#top11{
+    color: royalblue;
+}
+table,tr,#top12{
+    color: royalblue;
+}
+table,tr,#top13{
+    color: royalblue;
+}
+table,tr,#top14{
+    color: royalblue;
+}
+table,tr,#top15{
+    color: royalblue;
+}
+table,tr,#top16{
+    color: royalblue;
+}
+table,tr,#top17{
+    color: royalblue;
+}
+table,tr,#top18{
+    color: royalblue;
+}
+table,tr,#top19{
+    color: royalblue;
+}
+table,tr,#top20{
+    color: royalblue;
+}
+.kq{
+    float: right;
+    width: 900px;
+    height: 1px;
+}
+
